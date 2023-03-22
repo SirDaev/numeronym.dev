@@ -1,0 +1,31 @@
+{
+  "name": "numeronym.dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "css:watch": "tailwindcss -i ./src/input.css -o ./styles/styles.min.css --watch",
+    "dev": "nodemon watch src -e js,json,pug",
+    "build": "node ./src/bundle.js && tailwindcss -i ./src/input.css -o ./dist/styles/styles.min.css --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirDaev/numeronym.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirDaev/numeronym.dev/issues"
+  },
+  "homepage": "https://github.com/SirDaev/numeronym.dev#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "cssnano": "^5.1.15",
+    "nodemon": "^2.0.21",
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "pug": "^3.0.2",
+    "tailwindcss": "^3.2.7"
+  }
+}
