@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Oldenburg';
+  src: url('../fonts/oldenburg.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Otomanopee One';
+  src: url('../fonts/OtomanopeeOne-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

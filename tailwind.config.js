@@ -2,7 +2,12 @@
 module.exports = {
   content: ["./index.html"],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        oldenburg: ['Oldenburg'],
+        otomanopee: ['Otomanopee One']
+      }
+    },
   },
   plugins: []
 }
