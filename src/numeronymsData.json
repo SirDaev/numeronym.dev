@@ -3,5 +3,142 @@
     "numeronym": "a11y",
     "pronunciation": "\"a\" 11 \"y\"",
     "word": "accessibility"
+  },
+  {
+    "numeronym": "c11y",
+    "pronunciation": "\"c\" 11 \"y\"",
+    "word": "compatibility"
+  },
+  {
+    "numeronym": "c12s",
+    "pronunciation": "\"c\" 12 \"s\"",
+    "word": "communications"
+  },
+  {
+    "numeronym": "c14n",
+    "pronunciation": "\"c\" 14 \"n\"",
+    "word": "canonicalization"
+  },
+  {
+    "numeronym": "d11n",
+    "pronunciation": "\"d\" 11 \"n\"",
+    "word": "documentation"
+  },
+  {
+    "numeronym": "g11n",
+    "pronunciation": "\"g\" 11 \"n\"",
+    "word": "globalization"
+  },
+  {
+    "numeronym": "h7k",
+    "pronunciation": "\"h\" 7 \"k\"",
+    "word": "hyperlink"
+  },
+  {
+    "numeronym": "i11l",
+    "pronunciation": "\"i\" 11 \"l\"",
+    "word": "international"
+  },
+  {
+    "numeronym": "i14y",
+    "pronunciation": "\"i\" 14 \"y\"",
+    "word": "interoperability"
+  },
+  {
+    "numeronym": "i18n",
+    "pronunciation": "\"i\" 18 \"n\"",
+    "word": "internationalization",
+    "source": "http://www.i18nguy.com/origini18n.html"
+  },
+  {
+    "numeronym": "k8s",
+    "pronunciation": "\"k\" 8 \"s\"",
+    "word": "kubernetes"
+  },
+  {
+    "numeronym": "l10n",
+    "pronunciation": "\"l\" 10 \"n\"",
+    "word": "localization"
+  },
+  {
+    "numeronym": "l12y",
+    "pronunciation": "\"l\" 12 \"y\"",
+    "word": "localizability"
+  },
+  {
+    "numeronym": "m10n",
+    "pronunciation": "\"m\" 10 \"n\"",
+    "word": "mavenization"
+  },
+  {
+    "numeronym": "m12n",
+    "pronunciation": "\"m\" 12 \"n\"",
+    "word": "modularization"
+  },
+  {
+    "numeronym": "m17n",
+    "pronunciation": "\"m\" 17 \"n\"",
+    "word": "multilingualization"
+  },
+  {
+    "numeronym": "n11n",
+    "pronunciation": "\"n\" 11 \"n\"",
+    "word": "normalization"
+  },
+  {
+    "numeronym": "o11y",
+    "pronunciation": "\"o\" 11 \"y\"",
+    "word": "observability"
+  },
+  {
+    "numeronym": "p13n",
+    "pronunciation": "\"p\" 13 \"n\"",
+    "word": "personalization"
+  },
+  {
+    "numeronym": "s5n",
+    "pronunciation": "\"s\" 5 \"n\"",
+    "word": "shorten"
+  },
+  {
+    "numeronym": "s9y",
+    "pronunciation": "\"s\" 9 \"y\"",
+    "word": "serendipity"
+  },
+  {
+    "numeronym": "s10n",
+    "pronunciation": "\"s\" 10 \"n\"",
+    "word": "subscription"
+  },
+  {
+    "numeronym": "s12n",
+    "pronunciation": "\"s\" 12 \"n\"",
+    "word": "scherpenhuizen",
+    "source": "http://www.i18nguy.com/origini18n.html"
+  },
+  {
+    "numeronym": "s13n",
+    "pronunciation": "\"s\" 13 \"n\"",
+    "word": "standardization"
+  },
+  {
+    "numeronym": "s17t",
+    "pronunciation": "\"s\" 17 \"t\"",
+    "word": "software development"
+  },
+  {
+    "numeronym": "s19n",
+    "pronunciation": "\"s\" 19 \"n\"",
+    "word": "systems administration"
+  },
+  {
+    "numeronym": "t9n",
+    "pronunciation": "\"t\" 9 \"n\"",
+    "word": "translation"
+  },
+  {
+    "numeronym": "v12n",
+    "pronunciation": "\"v\" 12 \"n\"",
+    "word": "virtualization"
   }
 ]
